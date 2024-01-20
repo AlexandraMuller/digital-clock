@@ -6,4 +6,4 @@ HTML, CSS and JavaScript
 
 ## Demo
 
-The project is deployed here:
+The project is deployed here: https://digital-clock-am.netlify.app
