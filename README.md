@@ -1,4 +1,4 @@
-# digital-clock
+# Digital Clock
 This is a personal mini-project, a user-friendly digital clock that displays the current time on a website with a beautiful design.The clock will always show the accurate time, synchronized with the computer's time. 
 
 # Technologies Used
